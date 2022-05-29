@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+}
+
+.red_box {
+    background-color: #FE1A19;
+    height: 60px;
+    display: flex;
+}
+
+.red_text {
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.cards {
+    margin: 52px 0 52px 0;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.card_box {
+    border: 5px solid #E5E000;
+    border-radius: 30px;
+    width: 400px;
+    padding: 33px;
+}
+
+p {
+    font-family: 'Times New Roman';
+}
+
+.strawberry_tart {
+    font-family: Arial, Helvetica, sans-serif;
+}
